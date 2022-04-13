@@ -1,3 +1,8 @@
+/**
+ * Java Overload Activity
+ * 
+ * @author Nicolas, Nigel D.
+ */
 public class App {
     /**
      * This method takes in two int parameters to add.
